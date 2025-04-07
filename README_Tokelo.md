@@ -1,6 +1,9 @@
 # 📘 Computer Science Assignments Repository
 
 ![Language: Python](https://img.shields.io/badge/language-python-blue?logo=python)
+![Language: Java](https://img.shields.io/badge/language-java-red?logo=java)
+![Language: SQL](https://img.shields.io/badge/language-sql-lightgrey?logo=sqlite)
+![Topic: Software Architecture](https://img.shields.io/badge/topic-software--architecture-brightgreen)
 ![Status: Educational Use Only](https://img.shields.io/badge/status-educational--use--only-red)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-lightgrey)
 
