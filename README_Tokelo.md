@@ -8,6 +8,7 @@
 
 A personal archive of my academic assignments completed as part of my Computer Science coursework. This repository features code, reports, and small projects across various topics such as algorithms, data structures, databases, and more.
 
+**NB:** My personal projects can be viewed on my Portfolio website, but no code will be shown, only demos.
 ---
 
 ## 📂 Contents
