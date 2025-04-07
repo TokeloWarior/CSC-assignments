@@ -1,0 +1,1 @@
+select customerName, phone from customers where (customers.customerNumber not in(select customerNumber from payments))

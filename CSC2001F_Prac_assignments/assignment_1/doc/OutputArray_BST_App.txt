@@ -1,0 +1,25 @@
+//For Array App//
+
+Enter the date:
+Enter the list of countries (end with an empty line)
+The number of comparisons is: 44663
+
+Results:
+Dominican Republic = 17751
+Israel = 4346
+Sierra Leone = 0
+Egypt = 0
+South Namibia = <Not Found>
+###############################################################
+//For Binary Search tree App//
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+The number of comparisons is: 112
+
+Results:
+Dominican Republic = 17751
+Israel = 4346
+Sierra Leone = 0
+Egypt = 0
+South Namibia = <Not Found>

@@ -1,0 +1,1 @@
+select city, phone from offices where city = 'london' or city = 'paris'

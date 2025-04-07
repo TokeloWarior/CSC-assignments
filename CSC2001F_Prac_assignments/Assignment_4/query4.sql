@@ -1,0 +1,1 @@
+select avg(amount) as mean, sum(amount) as total from payments 

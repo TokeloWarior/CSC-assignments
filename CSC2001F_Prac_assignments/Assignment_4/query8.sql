@@ -1,0 +1,1 @@
+select round(max(buyprice)*0.15,2) as biggest from products 

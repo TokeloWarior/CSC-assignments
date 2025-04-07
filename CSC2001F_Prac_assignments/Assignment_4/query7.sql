@@ -1,0 +1,1 @@
+select distinct count(distinct phone) as numCalls from customers
