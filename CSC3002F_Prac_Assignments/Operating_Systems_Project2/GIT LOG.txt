@@ -1,0 +1,61 @@
+commit da3b950e2cbba23f837621b814bb285c0b6d74be
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Thu May 9 22:00:37 2024 +0200
+
+    wrapped up all my programs, Finished the 
+    report
+
+commit b1151df888d4cd4f81c2b77ff6991501c4401fef
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Wed May 8 04:30:35 2024 +0200
+
+    created a python script to graph the results
+
+commit add1e75a52c4e1b9fb5e19a6e554e56b12202abb
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Tue May 7 16:25:51 2024 +0200
+
+    modified my makefile & fixed some bugs
+
+commit cc3e274b01960f9165e5b26d215dc33a359f9f60
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Tue May 7 03:22:02 2024 +0200
+
+    thoroughly tested the 2 Algos for efficiency
+    and correctness
+
+commit 0ffd56e827e881f87205036417b742056d25f01d
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Mon May 6 20:37:19 2024 +0200
+
+    Started the my makefile.
+
+commit f979151edda42b34a3bfe6094805c6ac276dfa5b
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Sun May 5 05:35:12 2024 +0200
+
+    modified the SJF, to allow some logic.
+
+commit 476e1964daa326478c277ae7aa405ac91ade7e6c
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Fri May 3 05:34:08 2024 +0200
+
+    started testing the SJF and FCFS.
+
+commit 7b3f9921f225907a79c501e5fdc32cb43220b118
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Thu May 2 20:37:05 2024 +0200
+
+    finished implementing the SJF.
+
+commit 19d1a3e86f6d1ffe0815ef6bc3ac28192666cc8e
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Thu May 2 15:25:06 2024 +0200
+
+    started to implement the SJF algorithm
+
+commit 18f8d0447ccff367efda6e3b308e757694740595
+Author: Tokelo Makoloane <tokelomakoloane40@gmail.com>
+Date:   Tue Apr 30 14:26:46 2024 +0200
+
+    added all my files to the repo
